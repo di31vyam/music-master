@@ -1,0 +1,6 @@
+.color
+{
+    height: 1600px;
+    background-color: rgb(228, 188, 188); /* For browsers that do not support gradients */
+    background-image: linear-gradient(lightblue, blue);
+}

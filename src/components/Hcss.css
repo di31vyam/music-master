@@ -1,0 +1,23 @@
+.van{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(168, 219, 168);
+    height: 56px;
+}
+.van{
+    display: flex;
+    align-items: center;
+    padding: 0 0.5rem;
+}
+.item ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.spacer{
+    flex:1;
+}
